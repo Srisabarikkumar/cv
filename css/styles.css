@@ -3,11 +3,11 @@
   }
 
   p{
-    font: italic normal 15px/2 cursive;
+    font: italic normal 18px/2 cursive;
   }
 
   li{
-   font: italic normal 15px/2 cursive;
+   font: italic normal 18px/2 cursive;
   }
 
   h1{
@@ -16,20 +16,20 @@
   }
 
   h3{
-    font: italic small-caps bold 18px/2 cursive;
+    font: italic small-caps bold 20px/2 cursive;
     color: #66BFBF;
   }
 
   tr{
-    font: italic normal 15px/2 cursive;
+    font: italic normal 18px/2 cursive;
   }
 
   td{
-    font: italic normal 15px/2 cursive;
+    font: italic normal 18px/2 cursive;
   }
 
   a{
-    font: italic normal 15px/2 cursive;
+    font: italic normal 18px/2 cursive;
   }
 
   hr{
